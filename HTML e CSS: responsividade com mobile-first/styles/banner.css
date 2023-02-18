@@ -40,7 +40,7 @@
 
 
 @media screen and (min-width: 1024px) { 
-    .banner__texto{
+    .banner__titulo{
         font-size: 36px;
     }
 
